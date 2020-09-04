@@ -49,7 +49,7 @@ def jalan(z):
 ##### LOGO #####
 logo = """ ▄︻┻═┳一 ЩєLc๏Mє ┼๏ ┼ђє Fąş┼єş┼ єVєr cL๏ЙIЙG
            ▄︻┻═┳一 ♥️ABDUL-BASIT-๏FFIcIąL♥️----------🔴
-           ▄︻┻═┳一 ♥️♥️ K๏MąIL - cL๏Йєr  ♥️♥️----🔴🔴
+           ▄︻┻═┳一 ♥️♥️ ABDUL BASIT - cL๏Йєr  ♥️♥️----🔴🔴
            ▄︻┻═┳一    💪💪PAPPU-BACHA💪💪   🔴🔴
            ▄︻┻═┳一 ---- FєєL ┼ђє P๏Щєr   --------🔴🔴
 	          ЩєLc๏Mє ┼๏ ЦЙLIMI┼єđ cL๏ЙIЙG
@@ -78,8 +78,8 @@ logo = """ ▄︻┻═┳一 ЩєLc๏Mє ┼๏ ┼ђє Fąş┼єş┼ єVєr
       ♥️♥️ rąM乙ąЙ MЦßąrąK ┼๏ єVєrY ß๏đY  ♥️♥️
 \033[1;91m=======================================
 \033[1;96mAuthor  \033[1;93m: \033[1;92mABDUL BASIT
-\033[1;96mInstagram \033[1;93m: \033[1: itx_DEWANA_yr
-\033[1;96mFacebook  \033[1;93m: \033[1: komail.khan.3781
+\033[1;96mInstagram \033[1;93m: \033[1: a__b__d__u__l____b__a__s__i__t
+\033[1;96mFacebook  \033[1;93m: \033[1: ABDULBASITKINGPK
 \033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/nameofking/ABDULBASIT
 \033[1;91m======================================="""
 
